@@ -6,16 +6,9 @@
 
 
 <!-- 个人资料徽标 -->
-  <div align="center">w
-    <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-<!--     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp; -->
-<!--     <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp; -->
-<!--     <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp; -->
-    <a href="https://blog.csdn.net/qq_41095561?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-    <a href="https://space.bilibili.com/34716040"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-    <a href="https://www.zhihu.com/people/yyshino"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <div align="center">
   <!-- 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=0Shino0" alt="访客统计" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=bxmimang" alt="访客统计" />
   </div>
 
 
@@ -23,10 +16,7 @@
 
   <!-- 个人资料徽标 -->
   <div align="center">
-    <a href="http://www.yyshino.top/"><img src="https://img.shields.io/badge/JavaScript-%E4%B8%AA%E4%BA%BA%E9%A6%96%E9%A1%B5-blue?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>&emsp;
-    <a href="https://c-shop.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
-    <a href="https://e-admin.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F(Echarts)-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
-    <a href="https://github.com/0Shino0/company-admin"><img src="https://img.shields.io/badge/Vue3-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
+     <a href="https://github.com/bxmimang/company-admin"><img src="https://img.shields.io/badge/Vue3-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
   </div>
   <br/>
 
@@ -83,7 +73,7 @@
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bxmimang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shino0&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxmimang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
       
 <!-- 
