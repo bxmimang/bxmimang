@@ -2,7 +2,6 @@
 <h1 align="center">Welcome！👋 </h1>
 
 <!-- 敲代码的图片 -->
-<!-- <div align="center" ><img order-radius="100px" src="https://shinoimg.yyshino.top/img/202210151659756.gif"></div> -->
 <!-- <div align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></div> -->
 
 
@@ -19,17 +18,6 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=0Shino0" alt="访客统计" />
   </div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/0Shino0/0Shino0@main/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
----
-<h4 align="center">:computer: 个人网站:</h4>
-
-  <div align="center">
-    <a href="https://blog.yyshino.top/"><img src="https://img.shields.io/badge/Hexo博客-3CD6B4?style=for-the-badge&logo=hexo&logoColor=%3CD6B4" alt="Hexo博客"></a>&emsp;
-    <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/Vuepress博客-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuepress博客"></a>&emsp;
-  </div>
 
 <h4 align="center">:video_game: 实战经验</h4>
 
@@ -100,7 +88,7 @@
       
 <!-- 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=0Shino0&theme=xcode" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=bxmimang&theme=xcode" />
   <img src="https://cn.vuejs.org/logo.svg" />
   <img src="" />
   <img src="" />
@@ -117,7 +105,7 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Shino0&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bxmimang&theme=dark&hide_border=true" />
 </div>
 <br>
 
