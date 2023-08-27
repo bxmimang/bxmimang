@@ -17,6 +17,14 @@
      <a href="https://github.com/bxmimang/company-admin"><img src="https://img.shields.io/badge/Vue3-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
   </div>
   <br/>
+  <h4 align="center">:video_game: 实战经验</h4>
+
+  <!-- 个人资料徽标 -->
+  <div align="center">
+     <a href="https://github.com/bxmimang/company-admin"><img src="http://111.230.11.179:6001/)-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
+  </div>
+  <br/>
+
 
 <h4 align="center">🔭 正在学习: </h4>
   <div align="center">
@@ -80,6 +88,3 @@
   <img src="" />
 </div> -->
 <br>
-
-<!-- metrics -->
-<div align="center"> <img src="https://metrics.lecoq.io/bxmimang?template=classic&config.timezone=Asia%2FShanghai"> </div>
