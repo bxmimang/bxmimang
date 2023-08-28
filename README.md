@@ -21,7 +21,7 @@
 
   <!-- 个人资料徽标 -->
   <div align="center">
-     <a href="https://github.com/bxmimang/company-admin"><img src="http://111.230.11.179:6001/)-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
+     <a href="https://github.com/bxmimang/company-admin"><img src="http://img.shilelds.io/badge/打零工-f9fd04?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
   </div>
   <br/>
 
